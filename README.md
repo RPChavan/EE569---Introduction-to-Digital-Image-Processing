@@ -1,5 +1,5 @@
 # EE569 - Introduction-to-Digital-Image-Processing
-Introduction to Digital Image Processing is a course concentrated on gaining fundamental knowledge of theory, algorithmsa and applications of modern digital image processing techniques.
+Introduction to Digital Image Processing is a course concentrated on gaining fundamental knowledge of theory, algorithms and applications of modern digital image processing techniques.
 
 Instructor -  Prof. C.-C. Jay Kuo
 
